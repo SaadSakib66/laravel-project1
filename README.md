@@ -1,12 +1,13 @@
 # Laravel Project
 
 ## Project Overview
-Short description about your project.
+Portfolio website.
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- Home
+- Resume
+- Project
+- Contact
 
 ## Installation Process
 1. Clone the repository
@@ -17,4 +18,4 @@ Short description about your project.
 6. Run php artisan migrate
 
 ## Project Demo Video
-Video Link: (Add your Google Drive or YouTube link here)
+Video Link: https://drive.google.com/file/d/1Yz4oVixerMAKXKtL0yqDSJRJsXYyuXcN/view?usp=sharing
